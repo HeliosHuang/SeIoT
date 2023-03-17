@@ -1,0 +1,4 @@
+Id,type,heater_1,heater_2,humidifier_mi_1,humidifier_mi_2,AC,dehumidifier,humidifier_der
+0,temperature1,0,1,0,0,1,0,0
+1,temperature2,1,0,0,0,1,0,0
+2,humidity,1,1,1,1,1,1,1
